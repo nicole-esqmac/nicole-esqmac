@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Nicolasa Esquina. Bienvenido a mi perfil</h1>
+<h1 align="center">Hola 👋, Soy Nicole Esquina. Bienvenido a mi perfil</h1>
 <h3 align="center">Web Developer de Guatemala</h3>
 
 - 🔭 Actualmente estoy trabajando **desde casa**
